@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-For **SEI 713** this is a week-long deliverable, **due Monday, August 31**.
+For **SEI 1019** this is a week-long deliverable, **due Monday, Decemeber 14**.
 
 Follow the [React tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html)!
 
